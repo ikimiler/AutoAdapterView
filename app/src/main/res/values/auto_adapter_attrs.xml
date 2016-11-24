@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AutoAdpaterStyleable">
+        <!-- 比例 -->
+        <attr name="ratio" format="float"></attr>
+        <!-- 根据宽还是根据高 -->
+        <attr name="anchor">
+            <enum name="width" value="1" />
+            <enum name="heigh" value="2" />
+        </attr>
+
+    </declare-styleable>
+
+</resources>
