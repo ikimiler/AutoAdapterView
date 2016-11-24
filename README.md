@@ -9,6 +9,7 @@
 #####      AutoAdapterRelativeLayout
 #####      AutoAdapterTableLayout
 
+###自定义属性说明：
 
      xmlns:auto="http://schemas.android.com/apk/res-auto" 命名空间 eclipse用户请把res-auto 换为res/xxx 您的应用程序包名
 
