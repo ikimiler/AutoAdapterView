@@ -1,5 +1,15 @@
-# AutoAdapterView
-安卓布局自动适配---另一种姿势
+
+###安卓布局自动适配---另一种姿势
+
+#### AutoAdapterButton
+#### AutoAdapterTextView
+#### AutoAdapterImageView
+#### AutoAdapterLinearLayout
+#### AutoAdapterFrameLayout
+#### AutoAdapterRelativeLayout
+#### AutoAdapterTableLayout
+
+不够的，请自行扩展
 
 
 xmlns:auto="http://schemas.android.com/apk/res-auto" 命名空间 eclipse用户请把res-auto 换为res/xxx 您的应用程序包名
