@@ -3,8 +3,12 @@
 
 
 xmlns:auto="http://schemas.android.com/apk/res-auto" 命名空间 eclipse用户请把res-auto 换为res/xxx 您的应用程序包名
+
 ration ：宽高比
+
 anchor：宽度，意思是，根据宽度去自动计算该控件的高度，当然反之，也可以根据高度去自动计算控件的宽度。这里注意，根据什么(宽度或者高度),该值一定要有明确值，不能wrap_content
+
+###使用方法：
 
      <com.example.myapplication.AutoAdapterImageView
       auto:ration="0.29"  // 比率
