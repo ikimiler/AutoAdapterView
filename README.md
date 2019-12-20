@@ -36,4 +36,3 @@
      ></com.example.myapplication.AutoAdapterImageView>
 
 #### csdn 博文 http://blog.csdn.net/qq_28268507/article/details/53319104
-#### 简书  博文 http://www.jianshu.com/p/54fcfe9fca0d
